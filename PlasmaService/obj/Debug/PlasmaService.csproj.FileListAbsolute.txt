@@ -1,0 +1,11 @@
+C:\Users\forensics\source\repos\PlasmaService\PlasmaService\bin\Debug\PlasmaService.exe.config
+C:\Users\forensics\source\repos\PlasmaService\PlasmaService\bin\Debug\PlasmaService.exe
+C:\Users\forensics\source\repos\PlasmaService\PlasmaService\bin\Debug\PlasmaService.pdb
+C:\Users\forensics\source\repos\PlasmaService\PlasmaService\obj\Debug\PlasmaService.csproj.AssemblyReference.cache
+C:\Users\forensics\source\repos\PlasmaService\PlasmaService\obj\Debug\PlasmaService.csproj.SuggestedBindingRedirects.cache
+C:\Users\forensics\source\repos\PlasmaService\PlasmaService\obj\Debug\PlasmaService.PlasmaService.resources
+C:\Users\forensics\source\repos\PlasmaService\PlasmaService\obj\Debug\PlasmaService.ProjectInstaller.resources
+C:\Users\forensics\source\repos\PlasmaService\PlasmaService\obj\Debug\PlasmaService.csproj.GenerateResource.cache
+C:\Users\forensics\source\repos\PlasmaService\PlasmaService\obj\Debug\PlasmaService.csproj.CoreCompileInputs.cache
+C:\Users\forensics\source\repos\PlasmaService\PlasmaService\obj\Debug\PlasmaService.exe
+C:\Users\forensics\source\repos\PlasmaService\PlasmaService\obj\Debug\PlasmaService.pdb

@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\Users\forensics\source\repos\PlasmaService\PlasmaService\bin\Debug\PlasmaService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\forensics\source\repos\PlasmaService\PlasmaService\bin\Debug\PlasmaService.InstallLog
+   assemblypath = C:\Users\forensics\source\repos\PlasmaService\PlasmaService\bin\Debug\PlasmaService.exe
+Installing service PlasmaService...
+Service PlasmaService has been successfully installed.
+Creating EventLog source PlasmaService in log Application...
+Committing assembly 'C:\Users\forensics\source\repos\PlasmaService\PlasmaService\bin\Debug\PlasmaService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\forensics\source\repos\PlasmaService\PlasmaService\bin\Debug\PlasmaService.InstallLog
+   assemblypath = C:\Users\forensics\source\repos\PlasmaService\PlasmaService\bin\Debug\PlasmaService.exe
+Uninstalling assembly 'C:\Users\forensics\source\repos\PlasmaService\PlasmaService\bin\Debug\PlasmaService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\forensics\source\repos\PlasmaService\PlasmaService\bin\Debug\PlasmaService.InstallLog
+   assemblypath = C:\Users\forensics\source\repos\PlasmaService\PlasmaService\bin\Debug\PlasmaService.exe
+Removing EventLog source PlasmaService.
+Service PlasmaService is being removed from the system...
+Service PlasmaService was successfully removed from the system.
